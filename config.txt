@@ -1,0 +1,10 @@
+# SMTP服务器地址
+smtp_server=smtp.qq.com
+# SMTP服务器端口号
+port=465
+# 邮件发送者邮箱
+sender=sender@example.com
+# 邮箱授权码
+password=abcdefghijk
+# 邮件接收者邮箱
+receiver=receiver@example.com
