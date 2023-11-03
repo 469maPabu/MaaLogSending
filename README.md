@@ -15,18 +15,27 @@
 
 ### 3、将config.txt中的配置信息改为自己邮箱的配置信息。
 （1）SMTP服务器地址（每个公司不一样，自行百度）
+
 smtp_server=smtp.example.com
 
 （2）SMTP服务器端口号（每个公司不一样，自行百度）
+
 port=465
 
 （3）邮件发送者邮箱
+
 sender=sender@example.com
+
 （4）邮箱授权码 
+
 （在邮箱设置中生成，QQ邮箱可参考：https://zhuanlan.zhihu.com/p/643897161?utm_id=0）
+
 password=yourpassword
+
 （5）邮件接收者邮箱（可以与发送者相同）
+
 receiver=receiver@example.com
+
 
 示例：
 ```
